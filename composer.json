@@ -1,0 +1,12 @@
+{
+    "name": "jayku/hospital-system-project",
+    "description": "Hospital Administration System project",
+    "autoload": {
+        "psr-4": {
+            "Jayku\\HospitalSystemProject\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
